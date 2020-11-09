@@ -2,6 +2,8 @@
 
 Challenge to pull city weather data for over 500 cities via API and populate charts to identify relationships between city location and temperature, humidity, cloudiness, and wind speed. 
 
+Code may be reviewed in the [WeatherPy.ipynb](https://github.com/szerpa17/API-Challenge/blob/master/WeatherPy/WeatherPy.ipynb) file.
+
 ![Equator](Images/equatorsign.png)
 
 ## Tools 
